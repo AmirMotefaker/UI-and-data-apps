@@ -31,20 +31,21 @@ Welcome to Streamlit!
     creating that file if necessary:
 
     [browser]
+    
     gatherUsageStats = false
 
 
   Welcome to Streamlit. Check out our demo in your browser.
 
-  Local URL: http://localhost:8501
+    Local URL: http://localhost:8501
   
-  Network URL: http://192.168.1.143:8501
+    Network URL: http://192.168.1.143:8501
 
 
 
   Ready to create your own Python apps super quickly?
   
-  Head over to https://docs.streamlit.io
+    Head over to https://docs.streamlit.io
 
   May you create awesome apps!
   
