@@ -40,3 +40,7 @@ st.write(x, "multiply 9 is",  x * 9)
 # third step:
 # and Now run it to open the app in browser with this code:
 # $ streamlit run square_number.py
+
+
+# URL: https://amirmotefaker-ui-and-data-apps-square-number-8q372e.streamlit.app/
+
