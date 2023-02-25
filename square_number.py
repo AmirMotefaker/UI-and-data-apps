@@ -16,7 +16,8 @@
 import streamlit as st
 
 # Title
-st.title('Calculate the square of any number by AmirMotefaker')
+st.title('Calculate the square of any number')
+st.title('by AmirMotefaker')
 
 # Slider
 x = st.slider("Select a value")
