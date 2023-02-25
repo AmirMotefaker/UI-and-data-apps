@@ -42,5 +42,5 @@ st.write(x, "multiply 9 is",  x * 9)
 # $ streamlit run sMultiplication_Table.py
 
 
-# URL: https://amirmotefaker-ui-and-data-apps-square-number-8q372e.streamlit.app/
+# URL: https://amirmotefaker-ui-and-data-apps-multiplication-table-p57ism.streamlit.app/
 
