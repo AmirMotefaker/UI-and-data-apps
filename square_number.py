@@ -14,8 +14,14 @@
 # Create a new file square_number.py with the following code:
 
 import streamlit as st
-x = st.slider("Select a value")
+
+# Title
 st.title('Calculate the square of any number by AmirMotefaker')
+
+# Slider
+x = st.slider("Select a value")
+
+# Answer
 st.write(x, "squared is", x * x)
 
 # --------------------------------------
