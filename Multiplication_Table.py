@@ -16,7 +16,7 @@
 import streamlit as st
 
 # Title
-st.title('Multiplication table from 1 to 100')
+st.title('Multiplication Table')
    
 # Slider
 x = st.slider("Select a value")
