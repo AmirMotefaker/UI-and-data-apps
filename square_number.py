@@ -15,6 +15,7 @@
 
 import streamlit as st
 x = st.slider("Select a value")
+st.title('Calculate the square of any number by AmirMotefaker')
 st.write(x, "squared is", x * x)
 
 # --------------------------------------
