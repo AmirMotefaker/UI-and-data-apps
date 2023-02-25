@@ -17,11 +17,7 @@ import streamlit as st
 
 # Title
 st.title('Calculate the square of any number')
-
-# Sidebar
-with st.sidebar:
-    my_component(greeting="Hello")
-    
+   
 # Slider
 x = st.slider("Select a value")
 
