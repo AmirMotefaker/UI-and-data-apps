@@ -25,6 +25,14 @@ x = st.slider("Select a value")
 st.write(x, "squared is", x * x)
 st.write(x, "multiply 1 is",  x * 1)
 st.write(x, "multiply 2 is",  x * 2)
+st.write(x, "multiply 3 is",  x * 3)
+st.write(x, "multiply 4 is",  x * 4)
+st.write(x, "multiply 5 is",  x * 5)
+st.write(x, "multiply 6 is",  x * 6)
+st.write(x, "multiply 7 is",  x * 7)
+st.write(x, "multiply 8 is",  x * 8)
+st.write(x, "multiply 9 is",  x * 9)
+
 
 # --------------------------------------
 # third step:
