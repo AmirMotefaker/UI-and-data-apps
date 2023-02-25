@@ -9,7 +9,7 @@ Open a terminal and run:
   
     $ streamlit hello
   
-If this opens our sweet Streamlit Hello app in your browser, you're all set! If not, head over to [docs](https://docs.streamlit.io/library/get-started) for specific installs.
+If this opens our sweet [Streamlit](https://github.com/streamlit/streamlit) Hello app in your browser, you're all set! If not, head over to [docs](https://docs.streamlit.io/library/get-started) for specific installs.
 
 ---------------------------------------------------------
 Welcome to Streamlit!
