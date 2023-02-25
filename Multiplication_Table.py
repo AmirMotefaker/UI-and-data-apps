@@ -34,8 +34,6 @@ st.write(x, "multiply 7 is",  x * 7)
 st.write(x, "multiply 8 is",  x * 8)
 st.write(x, "multiply 9 is",  x * 9)
 
-# -----------------------Logo-------------------
-
 # --------------------------------------
 # third step:
 # and Now run it to open the app in browser with this code:
