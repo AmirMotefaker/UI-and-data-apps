@@ -23,7 +23,7 @@ x = st.slider("Select a value")
 
 # Answer
 st.write(x, "squared is", x * x)
-st.write(y, x * 1)
+st.write(x, x * 1)
 
 # --------------------------------------
 # third step:
