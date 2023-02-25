@@ -16,7 +16,7 @@
 import streamlit as st
 
 # Title
-st.title('Calculate the square of any number')
+st.title('Multiplication table from 1 to 100')
    
 # Slider
 x = st.slider("Select a value")
